@@ -1,4 +1,4 @@
-package com.github.gaoyunchuan.01thinker;
+package com.github.gaoyunchuan.thinker;
 
 /**
  * Hello world!
