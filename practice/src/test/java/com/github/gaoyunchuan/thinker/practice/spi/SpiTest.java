@@ -15,5 +15,8 @@ public class SpiTest{
         for (Spi item : spi){
             item.sayHello();
         }
+        //console:
+        //say Hello:com.github.gaoyunchuan.thinker.spi.ZhangSpi
+        //say Hello:com.github.gaoyunchuan.thinker.spi.MaSpi
     }
 }
