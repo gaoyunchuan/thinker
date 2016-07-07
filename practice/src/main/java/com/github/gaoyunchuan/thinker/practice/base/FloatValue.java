@@ -13,6 +13,8 @@ public class FloatValue {
 
     public static void main(String[] args) {
         System.out.println(new BigDecimal(9.9).floatValue() * 100);
+        //989.99994     -->出现精度问题
         System.out.println(FloatValue.convert(new BigDecimal(9.9)));
+        //990           -->正常
     }
 }
