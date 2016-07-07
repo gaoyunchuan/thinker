@@ -4,8 +4,10 @@
 
 
 ---
+
 new BigDecimal(9.9).floatValue();
 出现精度丢失问题
+
 ---
 spi 机制
 
